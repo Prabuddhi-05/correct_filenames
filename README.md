@@ -18,18 +18,18 @@ This script updates the "File" field inside `labeled_data_*.json` files so that 
 ```
 your_dataset_folder/
 ├── bag1_label/
-│   ├── fisheye_images_12/
+    ├── fisheye_images_12/
     ├── fisheye_images_13/
     ├── fisheye_images_14/
-│   ├── output_images/
-│   └── lidar_points/
+    ├── output_images/
+    └── lidar_points/
 └── bag1_json_files/
     ├── labeled_data_fisheye_images_12.json
     ├── labeled_data_fisheye_images_13.json
     ├── labeled_data_fisheye_images_14.json
     ├── labeled_data_output_images.json
     └── labeled_data_lidar_points.json
-├── correct_filenames.py
+└── correct_filenames.py
 ```
 
 ---
