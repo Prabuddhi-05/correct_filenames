@@ -16,7 +16,7 @@ This script updates the "File" field inside `labeled_data_*.json` files so that 
 ## Folder structure example
 
 ```
-your_dataset/
+your_dataset_folder/
 ├── bag1_label/
 │   ├── fisheye_images_12/
     ├── fisheye_images_13/
